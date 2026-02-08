@@ -19,44 +19,6 @@
   </a>
 </p>
 
----
-## Achievements
-**Smart Traffic Lights IEEE World Conference on Applied Intelligence and Computing**
-  
-  https://ieeexplore.ieee.org/document/10263856
-
-**Alteryx Datathon 2024 (Winner) – Data Analysis, Tableau, Alteryx, Teamwork, Leadership, Communication**
-  
-  https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
-
-## 🚀 Featured Projects
-
-- **🎬 AI-Moviehub-Full-Stack-LLM-Chatbot** — full-stack movie discovery app with an LLM chatbot for recommendations, Q&A, and search.  
-  🔗 https://github.com/jainamzaveri/AI-Moviehub-Full-Stack-LLM-Chatbot
-
-- **📈 QuantStudioPro** — crypto analytics + backtesting + ML experiments.  
-  🔗 https://github.com/jainamzaveri/QuantStudioPro
-
-- **🟣 Solana Market Analytics Dashboard** — Power BI dashboard for Solana trends + KPIs + DAX measures.  
-  🔗 https://github.com/jainamzaveri/SolanaMarketAnalytics
-
-- **🏦 Bank Fraud Analysis** — fraud classification + model evaluation + insights.  
-  🔗 https://github.com/jainamzaveri/Bank-Fraud-Analysis
-
-- **🛒 Amazon Exploratory Data Analysis** — EDA + visuals + key insights.  
-  🔗 https://github.com/jainamzaveri/Amazon-Exploratory-Data-Analysis
-
-- **💵 Banknote Classifier** — image classification + preprocessing/augmentation experiments.  
-  🔗 https://github.com/jainamzaveri/banknote-classifier
-
-- **🍲 Recipe Suggester** — Python app that recommends recipes based on preferences.  
-  🔗 https://github.com/jainamzaveri/Recipe-Suggestor-project
-
-- **🧠 Backpropagation-algorithm** — neural network backpropagation implemented from scratch with clear math + training demos.  
-  🔗 https://github.com/jainamzaveri/Backpropagation-algorithm
-
-- **📱 Swift-ScrollView-Demo-App** — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.  
-  🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
 
 ## 🌈 Tech Stack
 
@@ -87,7 +49,45 @@
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=111"/>
 </p>
 
+
+## 🚀 Featured Projects
+
+- **🎬 AI-Moviehub-Full-Stack-LLM-Chatbot** — full-stack movie discovery app with an LLM chatbot for recommendations, Q&A, and search.  
+  🔗 https://github.com/jainamzaveri/AI-Moviehub-Full-Stack-LLM-Chatbot
+
+- **📈 QuantStudioPro** — crypto analytics + backtesting + ML experiments.  
+  🔗 https://github.com/jainamzaveri/QuantStudioPro
+
+- **🟣 Solana Market Analytics Dashboard** — Power BI dashboard for Solana trends + KPIs + DAX measures.  
+  🔗 https://github.com/jainamzaveri/SolanaMarketAnalytics
+
+- **🏦 Bank Fraud Analysis** — fraud classification + model evaluation + insights.  
+  🔗 https://github.com/jainamzaveri/Bank-Fraud-Analysis
+
+- **🛒 Amazon Exploratory Data Analysis** — EDA + visuals + key insights.  
+  🔗 https://github.com/jainamzaveri/Amazon-Exploratory-Data-Analysis
+
+- **💵 Banknote Classifier** — image classification + preprocessing/augmentation experiments.  
+  🔗 https://github.com/jainamzaveri/banknote-classifier
+
+- **🍲 Recipe Suggester** — Python app that recommends recipes based on preferences.  
+  🔗 https://github.com/jainamzaveri/Recipe-Suggestor-project
+
+- **🧠 Backpropagation-algorithm** — neural network backpropagation implemented from scratch with clear math + training demos.  
+  🔗 https://github.com/jainamzaveri/Backpropagation-algorithm
+
+- **📱 Swift-ScrollView-Demo-App** — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.  
+  🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
 ---
+---
+## Achievements
+**Smart Traffic Lights IEEE World Conference on Applied Intelligence and Computing**
+  
+  https://ieeexplore.ieee.org/document/10263856
+
+**Alteryx Datathon 2024 (Winner) – Data Analysis, Tableau, Alteryx, Teamwork, Leadership, Communication**
+  
+  https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
 
 
 ---
