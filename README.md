@@ -25,7 +25,7 @@
   https://ieeexplore.ieee.org/document/10263856
 
 **Alteryx Datathon 2024 (Winner) – Data Analysis, Tableau, Alteryx, Teamwork, Leadership, Communication**
-https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
+  https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
 
 ## 🚀 Featured Projects
 
@@ -50,7 +50,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
 - **🍲 Recipe Suggester** — Python app that recommends recipes based on preferences  
   🔗 https://github.com/jainamzaveri/Recipe-Suggestor-project
 
-  **🧠 Backpropagation-algorithm** — neural network backpropagation implemented from scratch with clear math + training demos.
+  **🧠 Backpropagation-algorithm** — neural network backpropagation implemented from scratch with clear math + training demos
   🔗 https://github.com/jainamzaveri/Backpropagation-algorithm
 
   **📱 Swift-ScrollView-Demo-App** — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.
