@@ -31,43 +31,32 @@
 
 ## 🚀 Featured Projects
 
-  **🎬 AI-Moviehub-Full-Stack-LLM-Chatbot** — full-stack movie discovery app with an LLM chatbot for recommendations, Q&A, and search.
- 
-   🔗 https://github.com/jainamzaveri/AI-Moviehub-Full-Stack-LLM-Chatbot
-  
-- **📈 QuantStudioPro** — crypto analytics + backtesting + ML experiments  
+- **🎬 AI-Moviehub-Full-Stack-LLM-Chatbot** — full-stack movie discovery app with an LLM chatbot for recommendations, Q&A, and search.  
+  🔗 https://github.com/jainamzaveri/AI-Moviehub-Full-Stack-LLM-Chatbot
 
-   🔗 https://github.com/jainamzaveri/QuantStudioPro
+- **📈 QuantStudioPro** — crypto analytics + backtesting + ML experiments.  
+  🔗 https://github.com/jainamzaveri/QuantStudioPro
 
-- **🟣 Solana Market Analytics Dashboard** — Power BI dashboard for Solana trends + KPIs + DAX measures  
+- **🟣 Solana Market Analytics Dashboard** — Power BI dashboard for Solana trends + KPIs + DAX measures.  
+  🔗 https://github.com/jainamzaveri/SolanaMarketAnalytics
 
-   🔗 https://github.com/jainamzaveri/SolanaMarketAnalytics
+- **🏦 Bank Fraud Analysis** — fraud classification + model evaluation + insights.  
+  🔗 https://github.com/jainamzaveri/Bank-Fraud-Analysis
 
-- **🏦 Bank Fraud Analysis** — fraud classification + model evaluation + insights  
-
-   🔗 https://github.com/jainamzaveri/Bank-Fraud-Analysis
-
-- **🛒 Amazon Exploratory Data Analysis** — EDA + visuals + key insights  
-
+- **🛒 Amazon Exploratory Data Analysis** — EDA + visuals + key insights.  
   🔗 https://github.com/jainamzaveri/Amazon-Exploratory-Data-Analysis
 
-- **💵 Banknote Classifier** — image classification + preprocessing/augmentation experiments  
-
+- **💵 Banknote Classifier** — image classification + preprocessing/augmentation experiments.  
   🔗 https://github.com/jainamzaveri/banknote-classifier
 
-- **🍲 Recipe Suggester** — Python app that recommends recipes based on preferences  
-
+- **🍲 Recipe Suggester** — Python app that recommends recipes based on preferences.  
   🔗 https://github.com/jainamzaveri/Recipe-Suggestor-project
 
-  **🧠 Backpropagation-algorithm** — neural network backpropagation implemented from scratch with clear math + training demos
+- **🧠 Backpropagation-algorithm** — neural network backpropagation implemented from scratch with clear math + training demos.  
+  🔗 https://github.com/jainamzaveri/Backpropagation-algorithm
 
-  🔗  https://github.com/jainamzaveri/Backpropagation-algorithm
-  
-  **📱 Swift-ScrollView-Demo-App** — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.
-
-   🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
-
----
+- **📱 Swift-ScrollView-Demo-App** — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.  
+  🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
 
 ## 🌈 Tech Stack
 
