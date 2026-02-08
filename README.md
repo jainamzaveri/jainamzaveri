@@ -52,7 +52,7 @@
 
   **🧠 Backpropagation-algorithm** — neural network backpropagation implemented from scratch with clear math + training demos
   🔗  https://github.com/jainamzaveri/Backpropagation-algorithm
-
+  
   **📱 Swift-ScrollView-Demo-App** — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.
   🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
 
