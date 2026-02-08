@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello!&fontAlign=50&fontAlignY=35&color=gradient" />
 </p>
 
-<h2 align="center">Hi, I'm Jainam 👋</h2>
+<h2 align="center">Hi, I'm Jainam Sanjay Zaveri 👋</h2>
 <p align="center">
   <b>MS in Information Systems @ CSULB (Expected May 2026)</b> • Data/ML + Analytics • Python • SQL • Power BI
 </p>
