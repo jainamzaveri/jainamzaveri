@@ -73,13 +73,5 @@
 
 ---
 
-## 📈 GitHub Stats (optional)
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jainamzaveri&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jainamzaveri&hide_border=true" />
-</p>
 
 ---
-
-### ⭐ Pin these 6 repos on your profile
-**QuantStudioPro • Solana Dashboard • Bank Fraud • Banknote Classifier • Amazon EDA • Recipe Suggester**
