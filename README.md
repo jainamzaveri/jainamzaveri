@@ -22,8 +22,7 @@
 ---
 ## Achievements
 **Smart Traffic Lights IEEE World Conference on Applied Intelligence and Computing**
-
-https://ieeexplore.ieee.org/document/10263856
+  https://ieeexplore.ieee.org/document/10263856
 
 **Alteryx Datathon 2024 (Winner) – Data Analysis, Tableau, Alteryx, Teamwork, Leadership, Communication**
 https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
