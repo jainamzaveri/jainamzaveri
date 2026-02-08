@@ -31,7 +31,7 @@
 
   **🎬 AI-Moviehub-Full-Stack-LLM-Chatbot** — full-stack movie discovery app with an LLM chatbot for recommendations, Q&A, and search.
  
-  🔗 https://github.com/jainamzaveri/AI-Moviehub-Full-Stack-LLM-Chatbot
+   🔗 https://github.com/jainamzaveri/AI-Moviehub-Full-Stack-LLM-Chatbot
   
 - **📈 QuantStudioPro** — crypto analytics + backtesting + ML experiments  
 
@@ -63,7 +63,7 @@
   
   **📱 Swift-ScrollView-Demo-App** — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.
 
- 🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
+   🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
 
 ---
 
