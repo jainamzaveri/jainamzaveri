@@ -19,6 +19,7 @@
   </a>
 </p>
 
+---
 
 ## 🌈 Tech Stack
 
@@ -49,6 +50,7 @@
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=111"/>
 </p>
 
+---
 
 ## 🚀 Featured Projects
 
@@ -78,8 +80,9 @@
 
 - **📱 Swift-ScrollView-Demo-App** — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.  
   🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
+
 ---
----
+
 ## Achievements
 **Smart Traffic Lights IEEE World Conference on Applied Intelligence and Computing**
   
@@ -88,6 +91,5 @@
 **Alteryx Datathon 2024 (Winner) – Data Analysis, Tableau, Alteryx, Teamwork, Leadership, Communication**
   
   https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
-
 
 ---
