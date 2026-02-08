@@ -28,6 +28,10 @@ https://ieeexplore.ieee.org/document/10263856
 https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
 
 ## 🚀 Featured Projects
+
+  **🎬 AI-Moviehub-Full-Stack-LLM-Chatbot** — full-stack movie discovery app with an LLM chatbot for recommendations, Q&A, and search.
+  🔗 https://github.com/jainamzaveri/AI-Moviehub-Full-Stack-LLM-Chatbot
+  
 - **📈 QuantStudioPro** — crypto analytics + backtesting + ML experiments  
   🔗 https://github.com/jainamzaveri/QuantStudioPro
 
@@ -45,6 +49,12 @@ https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
 
 - **🍲 Recipe Suggester** — Python app that recommends recipes based on preferences  
   🔗 https://github.com/jainamzaveri/Recipe-Suggestor-project
+
+  **🧠 Backpropagation-algorithm** — neural network backpropagation implemented from scratch with clear math + training demos.
+  🔗 https://github.com/jainamzaveri/Backpropagation-algorithm
+
+  **📱 Swift-ScrollView-Demo-App** — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.
+  🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
 
 ---
 
