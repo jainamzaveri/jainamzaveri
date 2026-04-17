@@ -63,14 +63,17 @@
 - **🟣 Solana Market Analytics Dashboard** — Power BI dashboard for Solana trends + KPIs + DAX measures.  
   🔗 https://github.com/jainamzaveri/SolanaMarketAnalytics
 
-- **🏦 Bank Fraud Analysis** — fraud classification + model evaluation + insights.  
-  🔗 https://github.com/jainamzaveri/Bank-Fraud-Analysis
+- **🧠 LLM Fine-Tuning & Evaluation Experiment** — LoRA-based instruction tuning experiment with evaluation pipelines, reproducible training workflows, and model comparison.  
+  🔗 https://github.com/jainamzaveri/llm-fine-tuning-eval-experiment
 
-- **🛒 Amazon Exploratory Data Analysis** — EDA + visuals + key insights.  
-  🔗 https://github.com/jainamzaveri/Amazon-Exploratory-Data-Analysis
+- **📚 RAG-Powered Knowledge Assistant** — Retrieval-Augmented Generation assistant using LangChain, vector databases, FastAPI, and production-ready backend components.  
+  🔗 https://github.com/jainamzaveri/rag-powered-knowledge-assistant
 
-- **💵 Banknote Classifier** — image classification + preprocessing/augmentation experiments.  
-  🔗 https://github.com/jainamzaveri/banknote-classifier
+- **🩺 Liver Disease Prediction System** — ML-powered prediction system for liver disease detection with preprocessing, modeling, and healthcare-focused insights.  
+  🔗 https://github.com/jainamzaveri/liver-disease-prediction-system
+
+- **📦 Order Intelligence CDC Package** — change data capture package for order intelligence workflows, enabling reliable data movement, transformation, and downstream analytics use cases.  
+  🔗 https://github.com/jainamzaveri/order-intelligence-cdc-package
 
 - **🍲 Recipe Suggester** — Python app that recommends recipes based on preferences.  
   🔗 https://github.com/jainamzaveri/Recipe-Suggestor-project
@@ -84,12 +87,9 @@
 ---
 
 ## Achievements
-**Smart Traffic Lights IEEE World Conference on Applied Intelligence and Computing**
-  
-  https://ieeexplore.ieee.org/document/10263856
 
-**Alteryx Datathon 2024 (Winner) – Data Analysis, Tableau, Alteryx, Teamwork, Leadership, Communication**
-  
-  https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
+**Smart Traffic Lights IEEE World Conference on Applied Intelligence and Computing**  
+https://ieeexplore.ieee.org/document/10263856
 
----
+**Alteryx Datathon 2024 (Winner) – Data Analysis, Tableau, Alteryx, Teamwork, Leadership, Communication**  
+https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
