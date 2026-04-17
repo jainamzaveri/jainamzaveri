@@ -27,8 +27,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 </p>
 
-> A blend of software engineering, data, analytics, cloud, and applied AI.
-
 ### 👨‍💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,ts,bash,scala,c,cpp,html,css" />
