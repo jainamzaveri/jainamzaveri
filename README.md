@@ -133,7 +133,7 @@
   🔗 https://github.com/jainamzaveri/liver-disease-prediction-system
 
 - **📦 Order Intelligence CDC Package** — change data capture package for order intelligence workflows, enabling reliable data movement, transformation, and downstream analytics use cases.  
-  🔗 https://github.com/jainamzaveri/order-intelligence-cdc-package
+  🔗 https://github.com/jainamzaveri/order-intelligence-cdc-pro-final
 
 - **🍲 Recipe Suggester** — Python app that recommends recipes based on preferences.  
   🔗 https://github.com/jainamzaveri/Recipe-Suggestor-project
