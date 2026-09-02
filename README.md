@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <i>M.S. in Information Systems @ CSULB (May 2026) • Based in California</i>
+  <i>M.S. in Information Systems @ CSULB (May 2026) • Based in United States</i>
 </p>
 
 
