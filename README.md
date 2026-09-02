@@ -1,239 +1,176 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello!&fontAlign=50&fontAlignY=35&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jainam%20Sanjay%20Zaveri&fontAlign=50&fontAlignY=35&color=gradient" alt="Jainam Sanjay Zaveri" />
 </p>
 
-<h2 align="center">Hi, I'm Jainam Sanjay Zaveri 👋</h2>
+<h2 align="center">Forward Deployed Engineer | AI Software Engineer</h2>
+
 <p align="center">
-  <b>Forward Deployed Engineer @ BlackRock</b> • RAG/LLM Applications • Data Pipelines • Kubernetes on AWS/Azure
-</p>
-<p align="center">
-  <i>MS in Information Systems @ CSULB (May 2026) • Based in California</i>
+  Production LLM & RAG Systems • AI Agents • Data Platforms • Cloud & Kubernetes • Client Delivery
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jainamzaveri123/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://github.com/jainamzaveri">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:jainam.z@zohomail.com">
-    <img src="https://img.shields.io/badge/Email-34A853?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Zoho%20Mail-C8202B?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Mail" />
+  </a>
+  <a href="mailto:zaverijainam2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
----
+About Me
 
-## 👋 About Me
+I am a Forward Deployed Engineer and AI Software Engineer who turns ambiguous business requirements into reliable production systems. I work across discovery, rapid prototyping, hands-on development, deployment, client enablement, monitoring, and continuous iteration.
 
-I'm a **Forward Deployed Engineer** working across financial services and industrial technology. I embed with clients, turn ambiguous requirements into production systems, run discovery, prototype fast, write the code, deploy into customer environments, and stay on call to iterate.
+Building RAG/LLM applications, AI agents, evaluation frameworks, and backend services at BlackRock
 
-- 🏦 Currently at **BlackRock**, building RAG/LLM applications and data platforms for institutional clients
-- 🧠 Recent work spans **RAG systems, LLM evaluation frameworks, Airflow/PySpark pipelines, and Kubernetes on AWS/Azure**
-- 🤝 Previously **Assistant Manager – IT @ Axis Bank** and **Systems Engineer @ Siemens**
-- 📄 First-author IEEE publication on CNN-based smart traffic control
+Engineering Airflow and PySpark pipelines processing 5 TB+ of data daily
 
----
+Deploying production workloads with AWS, Azure, Docker, Kubernetes, Helm, and ArgoCD
 
-## 🌈 Tech Stack
+Experienced in technical discovery, solution design, stakeholder alignment, UAT, go-live, and incident response
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
-</p>
+First author of an IEEE-published CNN smart traffic control system
 
-### 🤖 AI & LLM Engineering
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector%20Databases-6A5ACD?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Agentic%20Workflows-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Function%20Calling-0F766E?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20Eval%20%26%20Observability-E97627?style=for-the-badge&logo=weightsandbiases&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111"/>
-</p>
+Core Capabilities
 
-### 🤝 Client Delivery
-<p>
-  <img src="https://img.shields.io/badge/Technical%20Discovery-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Requirements%20Gathering-1F6FEB?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solutions%20Design-4285F4?style=for-the-badge&logo=blueprint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POC%20Development-FF6F00?style=for-the-badge&logo=rocket&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Client%20Training%20%26%20Enablement-16A34A?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Executive%20Communication-334155?style=for-the-badge&logo=slides&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Business--Technical%20Translation-8B5CF6?style=for-the-badge&logo=googletranslate&logoColor=white"/>
-</p>
+AI Software Engineering
 
-### ☁️ Cloud, Kubernetes & Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Incident%20Response-DC2626?style=for-the-badge&logo=pagerduty&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20AI%20Document%20Intelligence-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Run-009688?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
+Forward-Deployed Delivery
 
-### 🔄 Data Engineering & Pipelines
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-6A5ACD?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CDC-0EA5E9?style=for-the-badge&logo=debezium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Validation-0F766E?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-</p>
+Data & Cloud Engineering
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,express" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-1F6FEB?style=for-the-badge&logo=icloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
+RAG, embeddings, vector search
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,bash,scala,c,cpp,html,css" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+Technical discovery
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+Python, PySpark, Airflow
 
-### 🚀 CI/CD & Quality
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions" />
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unit%20Testing-4CAF50?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Integration%20Testing-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+AI agents and tool calling
 
-### 📊 Analytics & Reporting
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111"/>
-  <img src="https://img.shields.io/badge/DAX-0B57D0?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KPI%20Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
+Requirements translation
 
-### 🧪 Applied ML
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=yolo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ResNet--50-2563EB?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
+ETL/ELT and data validation
 
-### 🔐 Security
-<p>
-  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TLS-1D4ED8?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
-</p>
+LLM evaluation and guardrails
 
----
+POC development
 
-## 🚀 Featured Projects
+AWS, Azure, and GCP
 
-### 🧠 LLM & RAG Systems
+FastAPI and microservices
 
-- **📚 RAG-Powered Knowledge Assistant** — Retrieval-Augmented Generation assistant with hybrid search, LangChain, vector databases, and a FastAPI backend; groundedness benchmarked across 100+ evaluation queries.
-  🔗 https://github.com/jainamzaveri/rag-powered-knowledge-assistant
+Client training and enablement
 
-- **🧪 LLM Fine-Tuning & Evaluation Experiment** — LoRA-based instruction tuning with evaluation pipelines, reproducible training workflows, and model comparison.
-  🔗 https://github.com/jainamzaveri/llm-fine-tuning-eval-experiment
+Docker and Kubernetes
 
-- **🎬 AI-Moviehub – Full-Stack LLM Chatbot** — full-stack movie discovery app with an LLM chatbot for recommendations, Q&A, and search.
-  🔗 https://github.com/jainamzaveri/AI-Moviehub-Full-Stack-LLM-Chatbot
+ML training and inference
 
-### 🔄 Data Engineering & Platform
+Executive communication
 
-- **📦 Order Intelligence CDC Package** — change data capture package for order intelligence workflows, enabling reliable data movement, transformation, and downstream analytics.
-  🔗 https://github.com/jainamzaveri/order-intelligence-cdc-pro-final
+CI/CD, monitoring, and IaC
 
-- **📈 QuantStudioPro** — crypto analytics platform with backtesting and ML experiments.
-  🔗 https://github.com/jainamzaveri/QuantStudioPro
+Experience
 
-- **🟣 Solana Market Analytics Dashboard** — Power BI dashboard for Solana trends, KPIs, and DAX measures.
-  🔗 https://github.com/jainamzaveri/SolanaMarketAnalytics
+BlackRock — Forward Deployed Engineer / Software Engineer, AI
 
-### 🧪 Applied ML & Foundations
+California, United States | Feb 2026 – Present
 
-- **🩺 Liver Disease Prediction System** — ML prediction system for liver disease detection with preprocessing, modeling, and healthcare-focused insights.
-  🔗 https://github.com/jainamzaveri/liver-disease-prediction-system
+Architected RAG-based LLM applications with LangChain and Pinecone, reducing portfolio managers' data-discovery time by 40% after retrieval-quality benchmarking.
 
-- **🧠 Backpropagation Algorithm** — neural network backpropagation implemented from scratch with clear math and training demos.
-  🔗 https://github.com/jainamzaveri/Backpropagation-algorithm
+Built AI agents with tool and function calling, MCP integrations, human approval checkpoints, tracing, and regression evaluation across 100+ test cases.
 
-- **🍲 Recipe Suggester** — Python app that recommends recipes based on preferences.
-  🔗 https://github.com/jainamzaveri/Recipe-Suggestor-project
+Engineered Python, PySpark, and Airflow pipelines processing 5 TB+ of daily market data for 200+ institutional clients at 99.9% uptime.
 
-- **📱 Swift ScrollView Demo App** — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.
-  🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
+Developed document-processing workflows with Azure AI Document Intelligence, extracting structured insights from 10K+ daily regulatory filings at 95% accuracy.
 
----
+Deployed backend microservices and inference workloads with FastAPI, AWS/Azure, Docker, Kubernetes, Helm, and ArgoCD, accelerating release cycles by 60%.
 
-## 💼 Experience Snapshot
+Onboarded 15 enterprise asset managers using tailored technical training and reusable infrastructure templates, reducing onboarding time from six weeks to 18 days.
 
-| Role | Company | Focus |
-|---|---|---|
-| **Forward Deployed Engineer** (02/2026 – Present) | BlackRock, CA | RAG/LLM apps, 5TB+/day pipelines, Kubernetes on Azure, enterprise client onboarding |
-| **Assistant Manager – IT** (08/2023 – 06/2024) | Axis Bank, India | Requirements translation across 6 IT programs, SQL/Power BI reporting, UAT & go-live |
-| **Systems Engineer** (01/2022 – 07/2023) | Siemens, India | SCADA monitoring automation, vendor coordination, failure investigations |
+Axis Bank — Assistant Manager- IT / Associate Program Analyst, PMO
 
----
+Mumbai, India | Aug 2023 – Jun 2024
 
-## 🎓 Education
+Translated technology, compliance, and operations requirements into delivery specifications across six IT programs, helping engineering teams resolve ambiguous scope.
 
-- **M.S. Information Systems** — California State University, Long Beach (May 2026)
-- **B.E. Computer Engineering** — University of Mumbai (May 2023)
+Built SQL and Power BI reporting workflows that reduced weekly manual consolidation by 80% and improved leadership visibility into milestones and risks.
 
----
+Coordinated 40+ dependencies across five workstreams for the Citi consumer portfolio integration.
 
-## 🏆 Publications, Achievements & Certifications
+Led UAT and go-live coordination with 25+ business users, clearing defects before launch and delivering releases without rollback.
 
-**📄 Publication — Smart Traffic Lights (IEEE AIC 2023)**
-First-author CNN model, 94% accuracy over 5K+ samples.
-🔗 https://ieeexplore.ieee.org/document/10263856
+Supported Java and Python services, REST APIs, relational databases, CI/CD, and automated testing for production banking workflows.
 
-**🥈 AWS YouthTech Hackathon 2026 — Runner-Up**
+Siemens — Systems Engineer
 
-**🥉 Alteryx Datathon 2024 — 3rd Place** (Data Analysis, Tableau, Alteryx, Teamwork, Leadership, Communication)
-🔗 https://www.linkedin.com/feed/update/urn:li:activity:7253588277943824384/
+Mumbai, India | Jan 2022 – Jul 2023
 
-**📜 Certifications**
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackerRank%20SQL%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alteryx%20Designer%20Core-0078B4?style=for-the-badge&logo=alteryx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Prompting%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude%20Code%20101%20(Anthropic)-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-</p>
+Automated SCADA data collection and validation with Python and Bash, reducing manual work by 45% and eliminating recurring reporting errors.
 
----
+Diagnosed five critical production failures and supported corrective actions that reduced unplanned downtime by 35%.
+
+Coordinated technical follow-ups with 15+ international vendors while maintaining API and ASME documentation compliance.
+
+Prepared equipment datasheets and P&ID documentation for 12+ compressor trains supporting projects worth more than $45M.
+
+Featured Projects
+
+AI, LLM, and Machine Learning
+
+RAG-Powered Knowledge Assistant — Hybrid semantic and keyword retrieval, LangChain, vector databases, FastAPI, and groundedness evaluation across 100+ queries.
+
+LLM Fine-Tuning and Evaluation Experiment — Reproducible LoRA-based instruction tuning and comparison of base and fine-tuned open-weight models.
+
+AI MovieHub — Full-Stack LLM Chatbot — Movie discovery application with conversational recommendations, question answering, and search.
+
+Liver Disease Prediction System — End-to-end preprocessing, modeling, prediction, and healthcare-focused analysis.
+
+Data Engineering and Analytics
+
+Order Intelligence CDC Package — Change-data-capture workflows for reliable ingestion, transformation, and downstream analytics.
+
+QuantStudioPro — Cryptocurrency analytics platform with backtesting and machine-learning experiments.
+
+Solana Market Analytics — Power BI dashboard featuring market trends, KPI analysis, and DAX measures.
+
+Technical Stack
+
+AI & LLM Engineering
+LangChain LlamaIndex RAG Vector Databases Embeddings AI Agents Tool Calling Function Calling MCP OpenAI Anthropic Hugging Face LoRA LLM Evaluation Guardrails Observability
+
+Languages & Backend
+Python Java SQL JavaScript TypeScript Bash C++ FastAPI Flask Node.js REST APIs Microservices
+
+Machine Learning
+PyTorch TensorFlow scikit-learn pandas NumPy CNNs Transformers YOLO ResNet OpenCV Model Deployment
+
+Data & Databases
+Apache Spark PySpark Airflow Kafka Databricks ETL/ELT PostgreSQL MySQL MongoDB Redis Power BI DAX
+
+Cloud & Platform
+AWS Azure GCP Docker Kubernetes Terraform Helm ArgoCD GitHub Actions Jenkins Prometheus Grafana Linux
+
+Education
+
+M.S. in Information Systems — California State University, Long Beach, May 2026
+
+B.E. in Computer Engineering — University of Mumbai, May 2023
+
+Publication, Awards, and Certifications
+
+Publication: Smart Traffic Lights, IEEE AIC 2023 — First-author CNN model achieving 94% accuracy across 5K+ samples.
+
+Awards: AWS YouthTech Hackathon 2026 — Runner-Up; Alteryx Datathon 2024 — Third Place.
+
+Certifications: AWS Cloud Foundations; HackerRank SQL (Advanced); Alteryx Designer Core; Google Prompting Essentials; Claude Code 101 (Anthropic).
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+  <i>Open to AI software engineering, forward-deployed engineering, machine-learning engineering, and data-platform opportunities.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" alt="Footer" />
 </p>
