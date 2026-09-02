@@ -13,17 +13,6 @@
   <i>M.S. in Information Systems @ CSULB (May 2026) • Based in California</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/jainamzaveri">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:jainam.z@zohomail.com">
-    <img src="https://img.shields.io/badge/jainam.z%40zohomail.com-C8202B?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho email" />
-  </a>
-  <a href="mailto:zaverijainam2002@gmail.com">
-    <img src="https://img.shields.io/badge/zaverijainam2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
 👋 About Me
 
