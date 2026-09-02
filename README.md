@@ -1,174 +1,235 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jainam%20Sanjay%20Zaveri&fontAlign=50&fontAlignY=35&color=gradient" alt="Jainam Sanjay Zaveri" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello!&fontAlign=50&fontAlignY=35&color=gradient" alt="Hello" />
 </p>
 
-<h2 align="center">Forward Deployed Engineer | AI Software Engineer</h2>
+<h2 align="center">Hi, I'm Jainam Sanjay Zaveri 👋</h2>
 
 <p align="center">
-  Production LLM & RAG Systems • AI Agents • Data Platforms • Cloud & Kubernetes • Client Delivery
+  <b>Forward Deployed Engineer • AI Software Engineer</b><br/>
+  RAG/LLM Applications • AI Agents • Data Pipelines • Kubernetes on AWS/Azure
+</p>
+
+<p align="center">
+  <i>M.S. in Information Systems @ CSULB (May 2026) • Based in California</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/jainamzaveri">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:jainam.z@zohomail.com">
-    <img src="https://img.shields.io/badge/Zoho%20Mail-C8202B?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Mail" />
+    <img src="https://img.shields.io/badge/jainam.z%40zohomail.com-C8202B?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho email" />
   </a>
   <a href="mailto:zaverijainam2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/zaverijainam2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-About Me
+👋 About Me
+
+I'm a Forward Deployed Engineer and AI Software Engineer working across financial services and industrial technology. I embed with clients, turn ambiguous requirements into production systems, prototype quickly, write the code, deploy into customer environments, and stay involved through monitoring and iteration.
+
+🏦 Currently at BlackRock, building production RAG/LLM applications, AI agents, backend services, and data platforms for institutional clients
+
+🧠 Recent work spans LLM evaluation, LangChain, vector databases, FastAPI, Airflow, PySpark, and Kubernetes
 
-I am a Forward Deployed Engineer and AI Software Engineer who turns ambiguous business requirements into reliable production systems. I work across discovery, rapid prototyping, hands-on development, deployment, client enablement, monitoring, and continuous iteration.
+🤝 Experienced in technical discovery, solution design, client onboarding, stakeholder alignment, UAT, and go-live delivery
+
+⚙️ Previously Assistant Manager- IT / Associate Program Analyst, PMO @ Axis Bank and Systems Engineer @ Siemens
+
+📄 First-author IEEE publication on CNN-based smart traffic control
+
+🌈 Tech Stack
 
-Building RAG/LLM applications, AI agents, evaluation frameworks, and backend services at BlackRock
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Gradient divider" />
+</p>
+
+🤖 AI & LLM Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-6A5ACD?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Vector Databases" />
+</p>
 
-Engineering Airflow and PySpark pipelines processing 5 TB+ of data daily
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Function%20Calling-0F766E?style=for-the-badge&logo=openai&logoColor=white" alt="Function Calling" />
+  <img src="https://img.shields.io/badge/MCP-2563EB?style=for-the-badge&logo=protocols&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-E97627?style=for-the-badge&logo=weightsandbiases&logoColor=white" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Guardrails-DC2626?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Guardrails" />
+</p>
 
-Deploying production workloads with AWS, Azure, Docker, Kubernetes, Helm, and ArgoCD
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LoRA-0F766E?style=for-the-badge&logo=pytorch&logoColor=white" alt="LoRA" />
+</p>
 
-Experienced in technical discovery, solution design, stakeholder alignment, UAT, go-live, and incident response
+🤝 Forward-Deployed & Client Delivery
 
-First author of an IEEE-published CNN smart traffic control system
+<p>
+  <img src="https://img.shields.io/badge/Technical%20Discovery-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Technical Discovery" />
+  <img src="https://img.shields.io/badge/Requirements%20Gathering-1F6FEB?style=for-the-badge&logo=jira&logoColor=white" alt="Requirements Gathering" />
+  <img src="https://img.shields.io/badge/Solution%20Design-4285F4?style=for-the-badge&logo=blueprint&logoColor=white" alt="Solution Design" />
+  <img src="https://img.shields.io/badge/POC%20Development-FF6F00?style=for-the-badge&logo=rocket&logoColor=white" alt="POC Development" />
+</p>
 
-Core Capabilities
+<p>
+  <img src="https://img.shields.io/badge/Client%20Enablement-16A34A?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Client Enablement" />
+  <img src="https://img.shields.io/badge/Executive%20Communication-334155?style=for-the-badge&logo=slides&logoColor=white" alt="Executive Communication" />
+  <img src="https://img.shields.io/badge/UAT%20%26%20Go--Live-8B5CF6?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="UAT and Go-Live" />
+</p>
 
-AI Software Engineering
+☁️ Cloud, Kubernetes & Infrastructure
 
-Forward-Deployed Delivery
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux" alt="Cloud and infrastructure tools" />
+</p>
 
-Data & Cloud Engineering
+<p>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Monitoring" />
+</p>
 
-RAG, embeddings, vector search
+🔄 Data Engineering & Pipelines
 
-Technical discovery
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-6A5ACD?style=for-the-badge&logo=apachekafka&logoColor=white" alt="ETL and ELT" />
+  <img src="https://img.shields.io/badge/CDC-0EA5E9?style=for-the-badge&logo=debezium&logoColor=white" alt="CDC" />
+</p>
 
-Python, PySpark, Airflow
+⚙️ Backend, APIs & Languages
 
-AI agents and tool calling
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,bash,cpp,fastapi,flask,nodejs" alt="Languages and backend tools" />
+</p>
 
-Requirements translation
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-1F6FEB?style=for-the-badge&logo=icloud&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-7C3AED?style=for-the-badge&logo=apache&logoColor=white" alt="Distributed Systems" />
+</p>
 
-ETL/ELT and data validation
+🗄️ Databases
 
-LLM evaluation and guardrails
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
+</p>
 
-POC development
+🧪 Machine Learning & Computer Vision
 
-AWS, Azure, and GCP
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="Machine learning tools" />
+  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/ResNet--50-2563EB?style=for-the-badge&logo=pytorch&logoColor=white" alt="ResNet-50" />
+</p>
 
-FastAPI and microservices
+📊 Analytics & Reporting
 
-Client training and enablement
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-0B57D0?style=for-the-badge&logo=databricks&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query" />
+</p>
 
-Docker and Kubernetes
+🚀 Featured Projects
 
-ML training and inference
+🧠 LLM & RAG Systems
 
-Executive communication
+📚 RAG-Powered Knowledge Assistant
+Hybrid semantic and keyword search with LangChain, vector databases, FastAPI, and groundedness evaluation across 100+ queries.
 
-CI/CD, monitoring, and IaC
+🧪 LLM Fine-Tuning & Evaluation Experiment
+LoRA-based instruction tuning, reproducible training workflows, and base-versus-tuned model evaluation.
 
-Experience
+🎬 AI MovieHub - Full-Stack LLM Chatbot
+Full-stack movie discovery application with conversational recommendations, question answering, and search.
 
-BlackRock — Forward Deployed Engineer / Software Engineer, AI
+🔄 Data Engineering & Analytics
 
-California, United States | Feb 2026 – Present
+📦 Order Intelligence CDC Package
+Change data capture workflows for reliable ingestion, transformation, and downstream analytics.
 
-Architected RAG-based LLM applications with LangChain and Pinecone, reducing portfolio managers' data-discovery time by 40% after retrieval-quality benchmarking.
+📈 QuantStudioPro
+Cryptocurrency analytics platform with backtesting and machine learning experiments.
 
-Built AI agents with tool and function calling, MCP integrations, human approval checkpoints, tracing, and regression evaluation across 100+ test cases.
+🟣 Solana Market Analytics Dashboard
+Power BI dashboard for market trends, KPI analysis, and DAX measures.
 
-Engineered Python, PySpark, and Airflow pipelines processing 5 TB+ of daily market data for 200+ institutional clients at 99.9% uptime.
+🧪 Applied Machine Learning
 
-Developed document-processing workflows with Azure AI Document Intelligence, extracting structured insights from 10K+ daily regulatory filings at 95% accuracy.
+🩺 Liver Disease Prediction System
+End-to-end preprocessing, predictive modeling, and healthcare-focused analysis.
 
-Deployed backend microservices and inference workloads with FastAPI, AWS/Azure, Docker, Kubernetes, Helm, and ArgoCD, accelerating release cycles by 60%.
+🧠 Backpropagation Algorithm
+Neural-network backpropagation implemented from scratch with clear math and training demonstrations.
 
-Onboarded 15 enterprise asset managers using tailored technical training and reusable infrastructure templates, reducing onboarding time from six weeks to 18 days.
+💼 Experience Snapshot
 
-Axis Bank — Assistant Manager- IT / Associate Program Analyst, PMO
+Role
 
-Mumbai, India | Aug 2023 – Jun 2024
+Company
 
-Translated technology, compliance, and operations requirements into delivery specifications across six IT programs, helping engineering teams resolve ambiguous scope.
+Focus
 
-Built SQL and Power BI reporting workflows that reduced weekly manual consolidation by 80% and improved leadership visibility into milestones and risks.
+Forward Deployed Engineer / AI Software Engineer (02/2026 - Present)
 
-Coordinated 40+ dependencies across five workstreams for the Citi consumer portfolio integration.
+BlackRock, CA
 
-Led UAT and go-live coordination with 25+ business users, clearing defects before launch and delivering releases without rollback.
+RAG/LLM applications, AI agents, 5 TB+/day data pipelines, FastAPI, Kubernetes, and enterprise client onboarding
 
-Supported Java and Python services, REST APIs, relational databases, CI/CD, and automated testing for production banking workflows.
+Assistant Manager- IT / Associate Program Analyst, PMO (08/2023 - 06/2024)
 
-Siemens — Systems Engineer
+Axis Bank, India
 
-Mumbai, India | Jan 2022 – Jul 2023
+Requirements translation, SQL/Power BI reporting, cross-functional delivery, UAT, and go-live
 
-Automated SCADA data collection and validation with Python and Bash, reducing manual work by 45% and eliminating recurring reporting errors.
+Systems Engineer (01/2022 - 07/2023)
 
-Diagnosed five critical production failures and supported corrective actions that reduced unplanned downtime by 35%.
+Siemens, India
 
-Coordinated technical follow-ups with 15+ international vendors while maintaining API and ASME documentation compliance.
+SCADA automation, Python data workflows, vendor coordination, and production failure analysis
 
-Prepared equipment datasheets and P&ID documentation for 12+ compressor trains supporting projects worth more than $45M.
+🎓 Education
 
-Featured Projects
+M.S. in Information Systems - California State University, Long Beach (May 2026)
 
-AI, LLM, and Machine Learning
+B.E. in Computer Engineering - University of Mumbai (May 2023)
 
-RAG-Powered Knowledge Assistant — Hybrid semantic and keyword retrieval, LangChain, vector databases, FastAPI, and groundedness evaluation across 100+ queries.
+🏆 Publications, Awards & Certifications
 
-LLM Fine-Tuning and Evaluation Experiment — Reproducible LoRA-based instruction tuning and comparison of base and fine-tuned open-weight models.
+📄 Publication - Smart Traffic Lights, IEEE AIC 2023
+First-author CNN model achieving 94% accuracy across 5K+ samples.
 
-AI MovieHub — Full-Stack LLM Chatbot — Movie discovery application with conversational recommendations, question answering, and search.
+🥈 AWS YouthTech Hackathon 2026 - Runner-Up
 
-Liver Disease Prediction System — End-to-end preprocessing, modeling, prediction, and healthcare-focused analysis.
+🥉 Alteryx Datathon 2024 - Third Place
 
-Data Engineering and Analytics
+📜 Certifications
 
-Order Intelligence CDC Package — Change-data-capture workflows for reliable ingestion, transformation, and downstream analytics.
-
-QuantStudioPro — Cryptocurrency analytics platform with backtesting and machine-learning experiments.
-
-Solana Market Analytics — Power BI dashboard featuring market trends, KPI analysis, and DAX measures.
-
-Technical Stack
-
-AI & LLM Engineering
-LangChain LlamaIndex RAG Vector Databases Embeddings AI Agents Tool Calling Function Calling MCP OpenAI Anthropic Hugging Face LoRA LLM Evaluation Guardrails Observability
-
-Languages & Backend
-Python Java SQL JavaScript TypeScript Bash C++ FastAPI Flask Node.js REST APIs Microservices
-
-Machine Learning
-PyTorch TensorFlow scikit-learn pandas NumPy CNNs Transformers YOLO ResNet OpenCV Model Deployment
-
-Data & Databases
-Apache Spark PySpark Airflow Kafka Databricks ETL/ELT PostgreSQL MySQL MongoDB Redis Power BI DAX
-
-Cloud & Platform
-AWS Azure GCP Docker Kubernetes Terraform Helm ArgoCD GitHub Actions Jenkins Prometheus Grafana Linux
-
-Education
-
-M.S. in Information Systems — California State University, Long Beach, May 2026
-
-B.E. in Computer Engineering — University of Mumbai, May 2023
-
-Publication, Awards, and Certifications
-
-Publication: Smart Traffic Lights, IEEE AIC 2023 — First-author CNN model achieving 94% accuracy across 5K+ samples.
-
-Awards: AWS YouthTech Hackathon 2026 — Runner-Up; Alteryx Datathon 2024 — Third Place.
-
-Certifications: AWS Cloud Foundations; HackerRank SQL (Advanced); Alteryx Designer Core; Google Prompting Essentials; Claude Code 101 (Anthropic).
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations" />
+  <img src="https://img.shields.io/badge/HackerRank%20SQL%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Advanced" />
+  <img src="https://img.shields.io/badge/Alteryx%20Designer%20Core-0078B4?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx Designer Core" />
+  <img src="https://img.shields.io/badge/Google%20Prompting%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials" />
+  <img src="https://img.shields.io/badge/Claude%20Code%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code 101" />
+</p>
 
 <p align="center">
-  <i>Open to AI software engineering, forward-deployed engineering, machine-learning engineering, and data-platform opportunities.</i>
+  <b>Building useful AI systems from discovery to production.</b>
 </p>
 
 <p align="center">
