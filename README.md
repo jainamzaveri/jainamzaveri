@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello!&fontAlign=50&fontAlignY=35&color=gradient" />
 </p>
 
-<h2 align="center">Hi, I'm Jainam Sanjay Zaveri 👋</h2>
-<p align="center">
-  <b>Forward Deployed Engineer @ BlackRock</b> • RAG/LLM Applications • Data Pipelines • Kubernetes on AWS/Azure
-</p>
-<p align="center">
   <i>MS in Information Systems @ CSULB (May 2026) • Based in California</i>
 </p>
 
@@ -22,15 +17,6 @@
   </a>
 </p>
 
-👋 About Me
-
-I'm a Forward Deployed Engineer working across financial services and industrial technology. I embed with clients, turn ambiguous requirements into production systems, run discovery, prototype fast, write the code, deploy into customer environments, and stay on call to iterate.
-
-🏦 Currently at BlackRock, building RAG/LLM applications and data platforms for institutional clients
-
-🧠 Recent work spans RAG systems, LLM evaluation frameworks, Airflow/PySpark pipelines, and Kubernetes on AWS/Azure
-
-🤝 Previously Assistant Manager – IT @ Axis Bank and Systems Engineer @ Siemens
 
 📄 First-author IEEE publication on CNN-based smart traffic control
 
