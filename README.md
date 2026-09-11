@@ -187,31 +187,6 @@
 📱 Swift ScrollView Demo App — iOS SwiftUI demo showcasing ScrollView layouts, reusable UI components, and smooth interactions.
 🔗 https://github.com/jainamzaveri/Swift-ScrollView-Demo-App
 
-💼 Experience Snapshot
-
-Role
-
-Company
-
-Focus
-
-Forward Deployed Engineer (02/2026 – Present)
-
-BlackRock, CA
-
-RAG/LLM apps, 5TB+/day pipelines, Kubernetes on Azure, enterprise client onboarding
-
-Assistant Manager – IT (08/2023 – 06/2024)
-
-Axis Bank, India
-
-Requirements translation across 6 IT programs, SQL/Power BI reporting, UAT & go-live
-
-Systems Engineer (01/2022 – 07/2023)
-
-Siemens, India
-
-SCADA monitoring automation, vendor coordination, failure investigations
 
 🎓 Education
 
